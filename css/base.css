@@ -434,7 +434,7 @@ body #cdawrap {
 }
 
 .thumb {
-	height: 75vh;
+	height: 50vh;
 	aspect-ratio: 1 / 1;
 	width: auto;
 	display: none;
